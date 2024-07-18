@@ -1,3 +1,5 @@
 .venv
 *.svg
-hw3_*
+*.h5
+
+kaggle.json
